@@ -1,7 +1,7 @@
 package com.nihalsheik.java.socket;
 
-import com.nihalsheik.java.socket.test.ChatClient;
-import com.nihalsheik.java.socket.test.ChatServer;
+import com.nihalsheik.java.socket.chat.ChatClient;
+import com.nihalsheik.java.socket.chat.ChatServer;
 
 public class Runner {
 

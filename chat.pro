@@ -1,7 +1,6 @@
 #
 # This ProGuard configuration file illustrates how to process applications.
-# Usage:
-#     java -jar proguard.jar @applications.pro
+# Usage: java -jar proguard.jar @applications.pro
 #
 
 # Specify the input jars, output jars, and library jars.
@@ -10,6 +9,7 @@
 -outjars chat-out.jar
 
 -libraryjars <java.home>/lib/rt.jar
+
 #-libraryjars junit.jar
 #-libraryjars servlet.jar
 #-libraryjars jai_core.jar

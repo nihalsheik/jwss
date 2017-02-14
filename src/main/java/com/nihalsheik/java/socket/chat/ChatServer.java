@@ -1,4 +1,4 @@
-package com.nihalsheik.java.socket.test;
+package com.nihalsheik.java.socket.chat;
 
 
 import com.nihalsheik.java.socket.Message;

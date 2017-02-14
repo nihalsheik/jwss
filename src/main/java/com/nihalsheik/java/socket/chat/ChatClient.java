@@ -1,4 +1,4 @@
-package com.nihalsheik.java.socket.test;
+package com.nihalsheik.java.socket.chat;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
